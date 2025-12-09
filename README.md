@@ -1,5 +1,5 @@
 # SNotes
-The program for save notes.
+The program for save and edit notes.
 
 # Hotkeys
 There are not hotkeys
