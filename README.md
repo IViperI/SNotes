@@ -8,4 +8,4 @@ There are not hotkeys
 You can create, edit and delete a notes using appropriate buttons.
 
 # Tags
-Select any note in list and create or delete tag approriate buttons.
+Select any note in list and create or delete a tags approriate buttons.
